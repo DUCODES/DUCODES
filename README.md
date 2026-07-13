@@ -1,4 +1,4 @@
-# Hi there, I'm DUCODES 👋
+# Hi there, I'm user.xnt 👋
 
 > **Learn. Unlearn. Relearn.** — Embracing continuous evolution in cybersecurity and beyond.
 
@@ -34,7 +34,7 @@ Currently operating as a **SOC L1 Analyst**, I'm actively developing my expertis
   - Cryptography & forensics
 
 **Tools & Platforms:**
-- SIEM & Log Analysis Tools
+- SIEM & Log Analysis Tools(Splunk)
 - Packet Analysis (Wireshark, tcpdump)
 - Malware Analysis Frameworks
 - Blockchain Explorers & Analysis Tools
