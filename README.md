@@ -43,24 +43,6 @@ Currently operating as a **SOC L1 Analyst**, I'm actively developing my expertis
 
 ---
 
-## 🌟 Featured Projects
-
-Here are some projects showcasing my work in cybersecurity and blockchain analysis:
-
-- **[Security Analysis Tools](https://github.com/DUCODES)** - Python-based security automation and analysis utilities
-- **[Blockchain Data Analytics](https://github.com/DUCODES)** - Tools for analyzing blockchain transactions and patterns
-- **[Threat Detection Scripts](https://github.com/DUCODES)** - Custom detection and response automation scripts
-- **[Network Security Tools](https://github.com/DUCODES)** - Network analysis and security assessment utilities
-
----
-
-## 📊 GitHub Activity
-
-![DUCODES GitHub Stats](https://github-readme-stats.vercel.app/api?username=DUCODES&show_icons=true&theme=radical&hide=contribs,prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DUCODES&layout=compact&theme=radical)
-
----
 
 ## 🎯 Current Focus
 
@@ -74,14 +56,13 @@ Here are some projects showcasing my work in cybersecurity and blockchain analys
 - Security automation tools
 - Blockchain threat intelligence systems
 - Incident response playbook automation
-- Digital forensics utilities
 
 **Expanding into AI-Driven Security**
 - Machine learning for threat detection
 - Behavioral analysis and anomaly detection
 - Predictive security analytics
 - AI-powered incident response
-
+to The-Art-of-Hacking/h4cker, Subscribed
 ---
 
 ## 📚 Core Competencies
@@ -107,16 +88,6 @@ This principle guides my professional growth:
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on security projects, sharing threat intelligence, or discussing emerging cybersecurity trends:
-
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile) 💼
-- **Twitter/X:** [@YourHandle](https://twitter.com/yourhandle) 🐦
-- **Email:** your.email@example.com 📧
-- **Personal Website/Blog:** [yourwebsite.com](https://yourwebsite.com) 🌐
-
----
 
 ## 💡 Open to Opportunities
 
@@ -128,7 +99,7 @@ I'm actively pursuing:
 - 🌍 **Open-source Security Tools** — Building and contributing to security community
 - 👥 **Knowledge Sharing** — Mentoring and collaborating with security professionals
 
----
+---to The-Art-of-Hacking/h4cker, Subscribed
 
 ## 📖 Latest Learning Path
 
