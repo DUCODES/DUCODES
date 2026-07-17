@@ -101,7 +101,7 @@ I'm actively pursuing:
 
 ---to The-Art-of-Hacking/h4cker, Subscribed
 
-## 📖 Latest Learning Path
+##  Latest Learning Path
 
 - Advanced SIEM administration & custom rules
 - Machine learning fundamentals for security
