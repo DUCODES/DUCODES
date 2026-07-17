@@ -6,21 +6,21 @@ Welcome to my GitHub profile! I'm a cybersecurity professional with expertise in
 
 ---
 
-## 🔐 About Me
+##  About Me
 
 I'm passionate about defending digital infrastructure and uncovering hidden threats in complex systems. My journey spans blockchain analysis, security operations, and emerging technologies. I believe in the power of **learning from mistakes, unlearning outdated practices, and relearning new methodologies** to stay ahead in the ever-changing cybersecurity landscape.
 
 Currently operating as a **SOC L1 Analyst**, I'm actively developing my expertise in:
-- **Security Operations & Monitoring** 🔍
-- **Threat Hunting & Detection** 🎯
-- **Incident Response & Analysis** 🚨
-- **Digital Forensics & Evidence Handling** 🔎
-- **Network Administration & Security** 🌐
-- **Blockchain Data Analysis** ⛓️
+- **Security Operations & Monitoring** 
+- **Threat Hunting & Detection** 
+- **Incident Response & Analysis** 
+- **Digital Forensics & Evidence Handling** 
+- **Network Administration & Security** 
+- **Blockchain Data Analysis** 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Core Technologies:**
 - **Languages:** Python, PHP, SQL
@@ -44,7 +44,7 @@ Currently operating as a **SOC L1 Analyst**, I'm actively developing my expertis
 ---
 
 
-## 🎯 Current Focus
+##  Current Focus
 
 **SOC L1 Operations & Threat Hunting**
 - Monitoring and analyzing security alerts
@@ -65,7 +65,7 @@ Currently operating as a **SOC L1 Analyst**, I'm actively developing my expertis
 to The-Art-of-Hacking/h4cker, Subscribed
 ---
 
-## 📚 Core Competencies
+##  Core Competencies
 
 | Domain | Skills |
 |--------|--------|
@@ -78,7 +78,7 @@ to The-Art-of-Hacking/h4cker, Subscribed
 
 ---
 
-## 🚀 Philosophy: Learn. Unlearn. Relearn.
+##  Philosophy: Learn. Unlearn. Relearn.
 
 This principle guides my professional growth:
 
@@ -89,15 +89,15 @@ This principle guides my professional growth:
 ---
 
 
-## 💡 Open to Opportunities
+##  Open to Opportunities
 
 I'm actively pursuing:
-- 🔒 **Security Operations & SOC roles** — Growing from L1 to L2/L3
-- 🔍 **Threat Hunting & Incident Response** — Real-world investigations
-- ⛓️ **Blockchain Security Projects** — Web3 threat intelligence
-- 🤖 **AI/ML in Cybersecurity** — Leveraging AI for threat detection
-- 🌍 **Open-source Security Tools** — Building and contributing to security community
-- 👥 **Knowledge Sharing** — Mentoring and collaborating with security professionals
+-  **Security Operations & SOC roles** — Growing from L1 to L2/L3
+-  **Threat Hunting & Incident Response** — Real-world investigations
+-  **Blockchain Security Projects** — Web3 threat intelligence
+-  **AI/ML in Cybersecurity** — Leveraging AI for threat detection
+-  **Open-source Security Tools** — Building and contributing to security community
+-  **Knowledge Sharing** — Mentoring and collaborating with security professionals
 
 ---to The-Art-of-Hacking/h4cker, Subscribed
 
@@ -110,21 +110,16 @@ I'm actively pursuing:
 - Digital forensics tools and techniques
 - Advanced threat hunting techniques
 
----
 
-## 💪 Code & Security Standards
-
+##  Code & Security Standards
 I'm committed to writing:
-- ✅ Secure, well-documented code
-- ✅ Defensive programming practices
-- ✅ Proper error handling & logging
-- ✅ Privacy-first solutions
-- ✅ Reproducible and testable code
+-  Secure, well-documented code
+-  Defensive programming practices
+-  Proper error handling & logging
+-  Privacy-first solutions
+-  Reproducible and testable code
 
----
+ **If you find my work valuable, feel free to star my repositories and follow for updates on cybersecurity tools, threat intelligence, and security automation projects!**
 
-⭐ **If you find my work valuable, feel free to star my repositories and follow for updates on cybersecurity tools, threat intelligence, and security automation projects!**
-
----
 
 *Last Updated: 2026 | Always learning, always improving* 🔄
