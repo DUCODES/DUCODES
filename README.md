@@ -122,4 +122,4 @@ I'm committed to writing:
  **If you find my work valuable, feel free to star my repositories and follow for updates on cybersecurity tools, threat intelligence, and security automation projects!**
 
 
-*Last Updated: 2026 | Always learning, always improving* 🔄
+*Last Updated: 2026 | Always learning, always improving* 
