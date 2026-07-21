@@ -4,8 +4,6 @@
 
 Welcome to my GitHub profile! I'm a cybersecurity professional with expertise in blockchain data analysis, SOC operations, and an evolving passion for AI-driven security solutions.
 
----
-
 ##  About Me
 
 I'm passionate about defending digital infrastructure and uncovering hidden threats in complex systems. My journey spans blockchain analysis, security operations, and emerging technologies. I believe in the power of **learning from mistakes, unlearning outdated practices, and relearning new methodologies** to stay ahead in the ever-changing cybersecurity landscape.
@@ -18,10 +16,7 @@ Currently operating as a **SOC L1 Analyst**, I'm actively developing my expertis
 - **Network Administration & Security** 
 - **Blockchain Data Analysis** 
 
----
-
 ##  Tech Stack
-
 **Core Technologies:**
 - **Languages:** Python, PHP, SQL
 - **Databases:** PostgreSQL, NoSQL databases
@@ -36,13 +31,8 @@ Currently operating as a **SOC L1 Analyst**, I'm actively developing my expertis
 **Tools & Platforms:**
 - SIEM & Log Analysis Tools(Splunk)
 - Packet Analysis (Wireshark, tcpdump)
-- Malware Analysis Frameworks
-- Blockchain Explorers & Analysis Tools
 - Digital Forensics Suites
 - Network Monitoring & IDS/IPS
-
----
-
 
 ##  Current Focus
 
@@ -62,9 +52,7 @@ Currently operating as a **SOC L1 Analyst**, I'm actively developing my expertis
 - Behavioral analysis and anomaly detection
 - Predictive security analytics
 - AI-powered incident response
-to The-Art-of-Hacking/h4cker, Subscribed
----
-
+  
 ##  Core Competencies
 
 | Domain | Skills |
@@ -76,8 +64,6 @@ to The-Art-of-Hacking/h4cker, Subscribed
 | **Network Security** | Packet analysis, traffic monitoring, firewall rules, DNS/proxy analysis |
 | **Blockchain Analysis** | Transaction analysis, address clustering, threat detection on-chain |
 
----
-
 ##  Philosophy: Learn. Unlearn. Relearn.
 
 This principle guides my professional growth:
@@ -86,30 +72,22 @@ This principle guides my professional growth:
 - **Unlearn** outdated practices — What worked yesterday may not be effective tomorrow. I actively challenge assumptions.
 - **Relearn** better approaches — Integrate new knowledge with past experience to develop superior solutions.
 
----
-
-
 ##  Open to Opportunities
 
 I'm actively pursuing:
--  **Security Operations & SOC roles** — Growing from L1 to L2/L3
+-  **Security Operations & SOC roles** — Growing from L1 to L2
 -  **Threat Hunting & Incident Response** — Real-world investigations
 -  **Blockchain Security Projects** — Web3 threat intelligence
 -  **AI/ML in Cybersecurity** — Leveraging AI for threat detection
 -  **Open-source Security Tools** — Building and contributing to security community
 -  **Knowledge Sharing** — Mentoring and collaborating with security professionals
 
----to The-Art-of-Hacking/h4cker, Subscribed
-
 ##  Latest Learning Path
-
 - Advanced SIEM administration & custom rules
 - Machine learning fundamentals for security
 - Blockchain threat intelligence frameworks
 - Incident response methodologies (NIST, SANS)
 - Digital forensics tools and techniques
-- Advanced threat hunting techniques
-
 
 ##  Code & Security Standards
 I'm committed to writing:
